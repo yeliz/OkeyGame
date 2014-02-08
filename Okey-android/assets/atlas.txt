@@ -1,0 +1,25 @@
+atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile-rack
+  rotate: false
+  xy: 1284, 110
+  size: 71, 99
+  orig: 71, 99
+  offset: 0, 0
+  index: -1
+tile-board
+  rotate: false
+  xy: 2, 2
+  size: 1280, 225
+  orig: 1280, 225
+  offset: 0, 0
+  index: -1
+welcome_playButton
+  rotate: false
+  xy: 1284, 2
+  size: 176, 106
+  orig: 176, 106
+  offset: 0, 0
+  index: -1
